@@ -1,5 +1,24 @@
 # Change Log
 
+## 1.1.44
+
+### Patch Changes
+
+- [#6919](https://github.com/medusajs/medusa/pull/6919) [`56c04f452c`](https://github.com/medusajs/medusa/commit/56c04f452cb54b4c614531394f3ebb9a2149e608) Thanks [@carlos-r-l-rodrigues](https://github.com/carlos-r-l-rodrigues)! - Medusa test utils use correct loader to init DB.
+
+- [#6901](https://github.com/medusajs/medusa/pull/6901) [`82a176e30e`](https://github.com/medusajs/medusa/commit/82a176e30e47a7d11caaf31c3023bd8db588b465) Thanks [@adrien2p](https://github.com/adrien2p)! - chore(medusa-test-utils): Handle errors gracefully + Do not set Distributed storage on partial loading
+
+- [#6858](https://github.com/medusajs/medusa/pull/6858) [`6bf4d40856`](https://github.com/medusajs/medusa/commit/6bf4d40856839b755ce33f85ee30d046be7341ab) Thanks [@srindom](https://github.com/srindom)! - chore(medusa-test-utils): create declaration file
+
+- [#6917](https://github.com/medusajs/medusa/pull/6917) [`b3a3993423`](https://github.com/medusajs/medusa/commit/b3a3993423f4872c84b52a68cc3e56766f9ad5a1) Thanks [@adrien2p](https://github.com/adrien2p)! - fix(medusa-test-utils): recompute driver options
+
+- [#6857](https://github.com/medusajs/medusa/pull/6857) [`6ee2ee845c`](https://github.com/medusajs/medusa/commit/6ee2ee845c7044240c521345eb0e296843a67291) Thanks [@adrien2p](https://github.com/adrien2p)! - fix(): medusa test runner
+
+- [#6865](https://github.com/medusajs/medusa/pull/6865) [`8fd1488938`](https://github.com/medusajs/medusa/commit/8fd148893850eb66c5eae00c4ca9391a80ea2eb9) Thanks [@adrien2p](https://github.com/adrien2p)! - chore: medusa shutdown
+
+- Updated dependencies [[`e0b02a1012`](https://github.com/medusajs/medusa/commit/e0b02a1012981c29830d7779f59ebe805bbfd137), [`5d9aea053c`](https://github.com/medusajs/medusa/commit/5d9aea053ce6e04f242f86fb9053c13dec515d5b), [`a6562d2a41`](https://github.com/medusajs/medusa/commit/a6562d2a41453cbe7aa43be352c4924e3e4c79d5)]:
+  - @medusajs/utils@1.12.0
+
 ## 1.1.43
 
 ### Patch Changes
